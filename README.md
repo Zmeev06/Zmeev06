@@ -17,6 +17,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVxcTNza3YyMWZ0aWN2ODZhdTFhODNkNWlwODZ1dHBtejVnN24zZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width="600" height="300"/>
 
+</div>
+
 # About Me
 
 Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
@@ -55,6 +57,5 @@ Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
 - Hackathon winner 🏆
 - Experience with legacy code ⚙️
 
-</div>
 
 
