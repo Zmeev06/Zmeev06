@@ -44,16 +44,8 @@ Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
 
 ### :fire: My Stats :
 
-<div align='center' display='flex'>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zmeev06&theme=light&background=FFFFFF)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zmeev06&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
 <div align='center'>
-  <p style="display: flex; justify-content: space-between;">
+  <p style="display: flex; justify-content: space-between; align-items: center">
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Zmeev06&theme=light&background=FFFFFF" alt="GitHub Streak" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zmeev06&layout=compact&theme=vision-friendly-light" alt="Top Languages" /></a>
   </p>
