@@ -42,7 +42,7 @@ Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
 - Perseverance 🏃‍♂️
 
 ## Portfolio
-1. [premiyadobra.ru](https://premiyadobra.ru) 🏆
+1. [премиядобра.рф](https://премиядобра.рф) 🏆
 2. [people-power.ru](https://people-power.ru) 🏅
 3. [souz-zastroi.ru](https://souz-zastroi.ru) 🎉
    
