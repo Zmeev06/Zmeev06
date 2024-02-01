@@ -43,8 +43,8 @@ Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zmeev06&theme=light&background=229ED9)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zmeev06&theme=light&background=FFFFFF)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zmeev06&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
