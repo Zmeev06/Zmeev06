@@ -44,7 +44,7 @@ Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
 
 ### :fire: My Stats :
 
-<div align='center'>
+<div align='center' display='flex'>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zmeev06&theme=light&background=FFFFFF)](https://git.io/streak-stats)
   
