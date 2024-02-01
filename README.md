@@ -40,6 +40,12 @@ Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zmeev06&theme=light&background=229ED9)](https://git.io/streak-stats)
+
+
 
 
 
