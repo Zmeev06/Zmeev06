@@ -38,6 +38,7 @@ Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
 ---
