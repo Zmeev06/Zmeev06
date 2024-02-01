@@ -59,7 +59,7 @@ Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
 - English - B2
 - Russian - native
 
-![Languages GIF](https://media.giphy.com/media/3o7TKzB25FP24pR0Ri/giphy.gif)
+![Languages GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRxaTRhaXY2a3EweGg5cWNiNGUzaHdqcWNuNHdyeDViMTA0MGtpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39DdCseASAd2yaPe/giphy.gif)
 
 ## Additional Information
 - Understanding of SEO principles
