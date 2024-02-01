@@ -40,27 +40,6 @@ Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
-## Personal Qualities
-- Stress-resistance 😌
-- Sociability 🤝
-- Teachability 📚
-- Analytical mindset 🔍
-- Perseverance 🏃‍♂️
-
-## Portfolio
-1. [премиядобра.рф](https://премиядобра.рф) 🏆
-2. [people-power.ru](https://people-power.ru) 🏅
-3. [souz-zastroi.ru](https://souz-zastroi.ru) 🎉
-   
-## Language Skills
-- English - B2 🇬🇧
-- Russian - native 🇷🇺
-
-## Additional Information
-- Understanding of SEO principles 🔍
-- Hackathon winner 🏆
-- Experience with legacy code ⚙️
-
 
 
 
