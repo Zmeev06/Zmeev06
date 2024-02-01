@@ -45,14 +45,14 @@ Hey there! My name is Sergey Timoshenko, and I'm a Middle Frontend Developer.
 ### :fire: My Stats :
 
 <div align='center'>
-  <p style="display: flex; justify-content: space-between; align-items: center">
+  <div style="display: flex; justify-content: space-between; align-items: center">
     <div>
        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Zmeev06&theme=light&background=FFFFFF" alt="GitHub Streak" /></a>
     </div>
     <div>
        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zmeev06&layout=compact&theme=vision-friendly-light" alt="Top Languages" /></a>
     </div>
-  </p>
+  </div>
 </div>
 
 
